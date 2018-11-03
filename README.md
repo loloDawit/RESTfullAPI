@@ -1,2 +1,2 @@
 # RESTFulAPI Project
-# Application that solely usesNode.js library without any additional framework and library.  
+Application that solely uses Node.js library without any additional framework and library.  
